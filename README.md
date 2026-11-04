@@ -88,3 +88,7 @@ These six checks are clues, not proof. A URL with no listed warning signs may st
 ## Ethical Use
 
 Use only fictional sample strings for this exercise. Do not enter real suspicious links, passwords OTPs or personal data. Do not send phishing messages, visit suspicious links, scan websites, or probe networks. Use any broader security testing only with written authorisation.
+
+## Author
+
+**Zeeshan Ali Sheikh** , Ewb AI POWERED CYBERSECURITY Batch 1 , EWB Courses
